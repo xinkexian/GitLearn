@@ -8,3 +8,6 @@ use --on --ff
 my F:\GitLearn
 F:develop
 F:\\\\\\
+E:develop
+F:develop
+E:\\\\\\\\
